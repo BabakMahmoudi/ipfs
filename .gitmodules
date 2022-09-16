@@ -1,0 +1,3 @@
+[submodule "net-ipfs-engine"]
+	path = net-ipfs-engine
+	url = https://github.com/BabakMahmoudi/net-ipfs-engine.git
